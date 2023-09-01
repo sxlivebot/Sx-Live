@@ -6,7 +6,6 @@ Sx Live is a Discord bot that sends notifications to your server when a streamer
 Website: https://sxlivebot.com<br>
 Invite: https://sxlivebot.com/invite<br>
 Support: https://support.sxlivebot.com<br>
-Patreon: https://patreon.com/sxlivebot.com
 
 <h2>Support Server:</h2>
 <p><a href="https://support.sxlivebot.com/" target="_blank" rel="nofollow noopener"><img src="https://discordapp.com/api/guilds/696873891225665536/widget.png?style=banner2" alt="Discord" /></a></p>
